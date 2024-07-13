@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yogesh Badoni</h1>
 <h3 align="center">A passionate Full Stack developer (MERN) from India</h3>
 
-<img align="right" alt="MERN STACK DEVELOPER" width="400" src="https://th.bing.com/th/id/OIP.Ya1vmGHv70dagg-Fpt8cEQAAAA?rs=1&pid=ImgDetMain"></img>
+<img align="right" alt="MERN STACK DEVELOPER" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshbadoni01&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshbadoni01" /> </p>
 
-- 🔭 I’m recent working in **Cloud Active lab 🏢**
+- 🔭 I’m recent working in **Cloud Active lab Pvt Ltd 🏢**
 
 - 🌱 I’m currently learning **Software Engineer 🧑‍💻**
 
