@@ -1,6 +1,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Yogesh Badoni</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=black&center=true&vCenter=true&width=1000&lines=👋+Welcome+to+My+Profile!;Over+1+years+of+programming+experience;Always+learning+new+things+;Information+Technology+enthusiast+;)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate Full Stack developer (MERN) from India</h3>
 
 <img align="right" alt="MERN STACK DEVELOPER" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"></img>
